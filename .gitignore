@@ -1,2 +1,5 @@
 /be/node_modules
 /be/.env
+
+node_modules/
+.env
